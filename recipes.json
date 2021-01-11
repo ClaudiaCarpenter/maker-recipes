@@ -1,14 +1,14 @@
 [
-  {
-    "id": 1,
-    "title": "A Title",
-    "url": "a url",
-    "category": "a category",
-  },
-  {
-    "id": 2,
-    "title": "Another Title",
-    "url": "another url",
-    "category": "another category",
-  },  
+   {
+      "id":1,
+      "title":"A Title",
+      "url":"a url",
+      "category":"a category"
+   },
+   {
+      "id":2,
+      "title":"Another Title",
+      "url":"another url",
+      "category":"another category"
+   }
 ]
