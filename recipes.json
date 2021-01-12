@@ -2,13 +2,13 @@
    {
       "id":1,
       "title":"A Title",
-      "url":"a url",
+      "url":"https://claudiacarpenter.github.io/maker-recipes/recipes.json",
       "category":"a category"
    },
    {
       "id":2,
       "title":"Another Title",
-      "url":"another url",
+      "url":"https://claudiacarpenter.github.io/maker-recipes/recipes.json",
       "category":"another category"
    }
 ]
