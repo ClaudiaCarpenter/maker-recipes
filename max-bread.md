@@ -1,4 +1,4 @@
-### Step 1 &mdash; Wet Ingredients
+### Step 1: Wet Ingredients
 
 - 454g (16oz) water (hot from the tap)
 - 1.5t salt (heaping teaspoon)
