@@ -1,4 +1,4 @@
-#### 1) Wet Ingredients
+#### 1) Mix Wet Ingredients
 
 *Prep: preheat one oven on Proof setting (<100°F), and find a large glass bowl or plastic food container plus a wooden spoon (without a hole in handle).*
 
@@ -10,7 +10,7 @@
 
 Pour water into container, then stir in salt, yeast, oil and sugar (using just the handle of the wooden spoon, not the spoon itself).
 
-#### 2) Dry Ingredients
+#### 2) Mix Dry Ingredients
 
 - 305g (2c) whole wheat flour
 - 239g (1.5c) all purpose flour
@@ -31,7 +31,7 @@ Cover container with plastic wrap and proof in warm oven for 90 minutes.
 
 Punch down dough, shape into a ball within the container, add oats and toss to coat, then add flour and toss to further coat.
 
-#### 5) Rise (<100°F)
+#### 5) Let Rise (<100°F)
 
 *Prep: preheat another oven to 400°F (not convection, not fast preheat), and find and grease two loaf pans.*
 
