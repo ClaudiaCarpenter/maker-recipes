@@ -2,7 +2,6 @@
 
 *Prep: put 1 egg in hot water, preheat bottom oven on Proof setting, get out Kitchenaid mixer with dough hook and find big silicone mat.*
 
-Gather:
 - 419 (2 3/4c) all purpose flour
 - 50g (2T) white sugar
 - 1t salt
@@ -12,7 +11,6 @@ Add dry ingredients to mixer bowl and whisk to combine.
 
 ### Step 2: Wet Ingredients
 
-Gather:
 - 1/2c water (hot from the tap)
 - 1/4c milk
 - 2T butter (melted)
@@ -22,7 +20,6 @@ Whisk wet ingredients together well, add to dry ingredients in mixer bowl, mix o
 
 ### Step 3: Rest, Fill and Shape
 
-Gather:
 - 5T unsalted butter
 - 70g light brown sugar
 - 42g cinnamon
