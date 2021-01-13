@@ -1,4 +1,4 @@
-#### 1) Dry Ingredients
+#### 1) Mix Dry Ingredients
 
 *Prep: put 1 egg in hot water, preheat bottom oven on Proof setting, get out Kitchenaid mixer with dough hook and find big silicone mat.*
 
@@ -9,7 +9,7 @@
 
 Add dry ingredients to mixer bowl and whisk to combine.
 
-#### 2) Wet Ingredients
+#### 2) Mix Wet Ingredients
 
 - 1/2c water (hot from the tap)
 - 1/4c milk
@@ -18,7 +18,7 @@ Add dry ingredients to mixer bowl and whisk to combine.
 
 Whisk wet ingredients together well, add to dry ingredients in mixer bowl, mix on medium until combined, then knead on low for 10 minutes.
 
-#### 3) Rest, Fill and Shape
+#### 3) Let Rest, Fill and Shape
 
 - 5T unsalted butter
 - 70g light brown sugar
@@ -27,7 +27,7 @@ Whisk wet ingredients together well, add to dry ingredients in mixer bowl, mix o
 While letting the dough rest, melt butter and mix with sugar and cinnamon. Grease pan. Roll out dough on mat to the full width, spread on filling, 
 roll up and cut into 2 inch lengths.
 
-#### 4) Rise (<100°F)
+#### 4) Let Rise (<100°F)
 
 *Prep: start preheating top oven to 350°F (convection, no fast preheat) and get out large spring-form pan.*
 
