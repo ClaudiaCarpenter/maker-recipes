@@ -39,4 +39,4 @@ Dump coated dough into greased loaf pan, cover with other greased loaf pan (inve
 
 #### 6) Bake (400°F)
 
-Move still-combined pans to not oven and bake at 400°F for 40 minutes. Remove from oven, take off inverted top pan and let sit for 10 minutes in the bottom pan before removing.
+Move still-combined pans to hot oven and bake at 400°F for 40 minutes. Remove from oven, take off inverted top pan and let sit for 10 minutes in the bottom pan before removing.
