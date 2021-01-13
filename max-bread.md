@@ -1,6 +1,6 @@
 #### 1) Wet Ingredients
 
-*Prep: preheat one oven on Proof setting, and find a large glass bowl or plastic food container plus a wooden spoon (without a hole in handle).*
+*Prep: preheat one oven on Proof setting (<100°F), and find a large glass bowl or plastic food container plus a wooden spoon (without a hole in handle).*
 
 - 454g (16oz) water (hot from the tap)
 - 1.5t salt (heaping teaspoon)
