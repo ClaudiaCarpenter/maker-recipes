@@ -17,7 +17,7 @@ Pour water into container, then stir in salt, yeast and oil (using just the hand
 - 1/4c pumpkin seeds
 - 1/2c rolled oats
 
-Add dry ingredients to the wet ingredients in order (oats on top), and stir until combined (again using just the wooden spoon handle).
+Add dry ingredients to the wet ingredients in order (oats on top), and stir until well combined (again using just the wooden spoon handle).
 
 ### Step 3: Proof (<100°F)
 
