@@ -41,7 +41,6 @@ Remove silicone lid from pan and bake rolls for 15 minutes.
 
 Remove rolls from oven and set aside.
 
-Gather:
 - 120g powdered sugar
 - 1t vanilla extract
 - 2T cream
