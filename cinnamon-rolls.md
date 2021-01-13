@@ -1,6 +1,6 @@
 #### 1) Mix Dry Ingredients
 
-*Prep: put 1 egg in hot water, preheat bottom oven on Proof setting, get out Kitchenaid mixer with dough hook and find big silicone mat.*
+*Prep: put an egg in hot water, preheat bottom oven on Proof setting, get out Kitchenaid mixer with dough hook and find big silicone mat.*
 
 - 419 (2 3/4c) all purpose flour
 - 50g (2T) white sugar
