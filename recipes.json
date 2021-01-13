@@ -1,14 +1,14 @@
 [
    {
       "id":1,
-      "title":"A Title",
-      "url":"https://claudiacarpenter.github.io/maker-recipes/recipe.md",
-      "category":"a category"
+      "title":"Max's Killer Bread",
+      "url":"https://claudiacarpenter.github.io/maker-recipes/max-bread.md",
+      "category":"Bread"
    },
    {
       "id":2,
-      "title":"Another Title",
-      "url":"https://claudiacarpenter.github.io/maker-recipes/recipe.md",
-      "category":"another category"
+      "title":"Best Cinnamon Rolls",
+      "url":"https://claudiacarpenter.github.io/maker-recipes/cinnamon-rolls.md",
+      "category":"Muffins"
    }
 ]
