@@ -1,6 +1,6 @@
 ### Step 1: Dry Ingredients
 
-Prep: put 1 egg in hot water, preheat bottom oven on Proof setting, get out Kitchenaid mixer with dough hook and find big silicone mat.
+*Prep: put 1 egg in hot water, preheat bottom oven on Proof setting, get out Kitchenaid mixer with dough hook and find big silicone mat.*
 
 Gather:
 - 419 (2 3/4c) all purpose flour
@@ -32,7 +32,7 @@ roll up and cut into 2 inch lengths.
 
 ### Step 4: Rise (<100°F)
 
-Prep: start preheating top oven to 350°F (convection, no fast preheat) and get out large spring-form pan.
+*Prep: start preheating top oven to 350°F (convection, no fast preheat) and get out large spring-form pan.*
 
 Grease pan, arrange rolls in it, cover with silicone lid and let rise in warm oven for 30-45 minutes (until puffy).
 
