@@ -1,11 +1,13 @@
 ### Step 1: Wet Ingredients
 
+Prep: preheat an oven on Proof setting and gather a large glass bowl or plastic food container plus a wooden spoon (without hole in handle).
+
 - 454g (16oz) water (hot from the tap)
 - 1.5t salt (heaping teaspoon)
 - 1.25t yeast (instant dry, rounded teaspoon)
 - 2T canola oil
 
-Preheat Pour water into a large glass bowl or plastic food container, then stir in salt, yeast and oil (using just the handle of a wooden spoon).
+Pour water into container, then stir in salt, yeast and oil (using just the handle of the wooden spoon).
 
 ### Step 2: Dry Ingredients
 
@@ -23,10 +25,12 @@ Cover container with plastic wrap and proof in warm oven for 90 minutes.
 
 ### Step 4: Shape
 
+Prep: preheat an oven to 400°F (not convection) and gather and grease two loaf pans.
+
 - 0.33c all purpose flour
 - 0.33c rolled oats
 
-Preheat oven to 400°F. Punch down dough, shape into a ball within the container, add flour and oats and toss until coated.
+Punch down dough, shape into a ball within the container, add oats and toss, then add flour and toss until coated.
 
 ### Step 5: Bake (400°F)
 
