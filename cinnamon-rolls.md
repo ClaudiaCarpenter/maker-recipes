@@ -27,17 +27,17 @@ Whisk wet ingredients together well, add to dry ingredients in mixer bowl, mix o
 While letting the dough rest, melt butter and mix with sugar and cinnamon. Grease pan. Roll out dough on mat to the full width, spread on filling, 
 roll up and cut into 2 inch lengths.
 
-### Step 4: Rise (<100°F)
+#### Step 4: Rise (<100°F)
 
 *Prep: start preheating top oven to 350°F (convection, no fast preheat) and get out large spring-form pan.*
 
 Grease pan, arrange rolls in it, cover with silicone lid and let rise in warm oven for 30-45 minutes (until puffy).
 
-### Step 5: Bake (350°F convection)
+#### Step 5: Bake (350°F convection)
 
 Remove silicone lid from pan and bake rolls for 15 minutes.
 
-### Step 6: Cool and Glaze
+#### Step 6: Cool and Glaze
 
 Remove rolls from oven and set aside.
 
