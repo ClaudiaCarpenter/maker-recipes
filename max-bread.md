@@ -1,6 +1,6 @@
 #### 1) Wet Ingredients
 
-*Prep: preheat bottom oven on Proof setting, and find a large glass bowl or plastic food container plus a wooden spoon (without a hole in handle).*
+*Prep: preheat one oven on Proof setting, and find a large glass bowl or plastic food container plus a wooden spoon (without a hole in handle).*
 
 - 454g (16oz) water (hot from the tap)
 - 1.5t salt (heaping teaspoon)
@@ -33,10 +33,10 @@ Punch down dough, shape into a ball within the container, add oats and toss to c
 
 #### 5) Rise (<100°F)
 
-*Prep: preheat top oven to 400°F (not convection, not fast preheat), and find and grease two loaf pans.*
+*Prep: preheat another oven to 400°F (not convection, not fast preheat), and find and grease two loaf pans.*
 
 Dump coated dough into greased loaf pan, cover with other greased loaf pan (inverted on top), and let rise in warm oven for 45 minutes.
 
 #### 6) Bake (400°F)
 
-Move still-combined pans to top oven and bake at 400°F for 40 minutes. Remove from oven, take off inverted top pan and let sit for 10 minutes in the bottom pan before removing.
+Move still-combined pans to not oven and bake at 400°F for 40 minutes. Remove from oven, take off inverted top pan and let sit for 10 minutes in the bottom pan before removing.
