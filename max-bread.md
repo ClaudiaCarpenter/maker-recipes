@@ -12,13 +12,14 @@ Pour water into container, then stir in salt, yeast, oil and sugar (using just t
 
 #### 2) Mix Dry Ingredients
 
-- 305g (2c) whole wheat flour
-- 239g (1.5c) all purpose flour
+- 289g whole wheat flour
+- 227g all purpose flour
+- 28g gluten
 - 1/4c sunflower seeds
 - 1/4c pumpkin seeds
 - 1/2c rolled oats
 
-Add dry ingredients to the wet ingredients in order (oats on top), and stir until well combined (again using just the wooden spoon handle).
+Whisk gluten into flours in a separate container, mixing well. Add to wet ingredients, topping with nuts and oats, and stir until well combined (again using just the wooden spoon handle).
 
 #### 3) Proof (<100°F)
 
